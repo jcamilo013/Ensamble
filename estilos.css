@@ -256,9 +256,10 @@ h1{
 .embed-container iframe {
     position: absolute;
     top:0;
-    left: 30px;
-    width: 50%;
-    height: 50%;
+    left: 50px;
+    width: 80%;
+    height: 80%;
+	align: center;
 }
 audio
 {
